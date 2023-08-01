@@ -1,2 +1,2 @@
-# gui
 DigitalGui
+Digital clock with python
